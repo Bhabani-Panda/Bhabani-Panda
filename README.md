@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 Currently, I’m diving deeper into **Machine Learning** to develop predictive models and automate decision-making processes. My goal is to integrate data-driven insights with cutting-edge ML algorithms to solve complex business challenges.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Bhabani-Panda&color=blueviolet)
 
 ## About Me
 
